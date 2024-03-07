@@ -3,3 +3,12 @@
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
+.noborder{
+  /* margin-top: 8px; */
+  margin:0px;
+  padding : 0px;
+  border: 0px;
+}
+/* .imgpos{
+  z-index: 1;
+} */
