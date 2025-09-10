@@ -114,7 +114,8 @@
             <h2 class="text-4xl md:text-5xl font-bold mb-6 text-primary">About Me</h2>
             <div class="w-24 h-1 bg-gradient-to-r from-primary to-accent mx-auto mb-8"></div>
           </div>
-          
+
+              
           <div class="grid md:grid-cols-2 gap-12 items-center">
             <div data-aos="fade-right">
               <p class="text-lg text-gray-300 leading-relaxed mb-6">
